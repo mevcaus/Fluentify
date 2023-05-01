@@ -1,6 +1,6 @@
 # Fluentify
 
-Fluentify is a web application designed to help users learn new languages. It provides users with a variety of tools and resources to improve their language skills, including vocabulary lists, grammar explanations, and practice exercises. The app is built using a range of technologies, including Firebase, Google Authentication, React, Express, and Firestore.
+Fluentify is a web application designed to help users learn new languages. It provides users with a variety of tools and resources to improve their language skills using practice exercises. The app is built using a range of technologies, including Firebase, Google Authentication, React, Express, and Firestore.
 ## Getting Started
 
 To use Fluentify, simply navigate to the website and create an account using Google Authentication. Once you've logged in, you can start exploring the available languages and resources.
